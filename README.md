@@ -1,2 +1,2 @@
 # patternsGoF
-Realization of all GoF patterns in Java (in progress, 1/23) 
+Realization of all GoF patterns in Java (in progress, 2/23) 
